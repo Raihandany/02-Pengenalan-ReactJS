@@ -65,8 +65,8 @@ Pada struktur project tersebut, jelaskan kegunaan folder dan file masing-masing 
 
 ## TUGAS PRAKTIKUM
 "1. Buatlah repository di akun GitHub Anda dengan nama #02-react-hello-world kemudian kumpulkan link tersebut ke dosen pengampu sesuai media yang disepakati."
-"<br>2. Hapus isi file README.md yang ada di project hello-world tersebut, kemudian isi dengan jawaban praktikum mulai dari soal 1 hingga 3.</br>"
-"<br>3. Jangan lupa push project dan jawaban Anda melalui VS Code dengan pesan commit "Week 02: belajar react"</br>"
+"2. Hapus isi file README.md yang ada di project hello-world tersebut, kemudian isi dengan jawaban praktikum mulai dari soal 1 hingga 3.>"
+<br>3. Jangan lupa push project dan jawaban Anda melalui VS Code dengan pesan commit "Week 02: belajar react"</br>
 "<br>4. Cobalah buat project react lainnya dengan menggunakan framework Remix dan Gatsby. Ini tidak perlu di push, cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file README nomor 1.</br>"
 
 
